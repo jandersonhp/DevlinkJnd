@@ -53,8 +53,8 @@ header {
     text-align: center;
     padding: 40px 0;
 }.profile-img {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid var(--accent-color); /* Borda mais fina */
@@ -261,8 +261,8 @@ footer {
     }
     
     .profile-img {
-        width: 120px;
-        height: 120px;
+        width: 250px;
+        height: 250px;
     }
     
     .projects-grid {
